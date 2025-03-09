@@ -70,8 +70,8 @@ Os principais tópicos abordados incluem:
 
 Para acompanhar as aulas e praticar, estou utilizando:
 
-- **Linguagem:** Python 3.x
-- **IDE:** Visual Studio Code ou PyCharm
+- **Linguagem:** Python3
+- **IDE:** Visual Studio Code
 - **Bibliotecas auxiliares:** `os`, `multiprocessing`, `threading`, `socket`, `shutil`, `pathlib`
 
 ## Minhas anotações
