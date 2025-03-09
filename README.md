@@ -80,12 +80,10 @@ Aqui adicionarei anotações e códigos feitos conforme avanço na disciplina.
 
 ## Referências
 
-- Documentação oficial do Python (https://docs.python.org/3/)
-- Livros recomendados sobre Sistemas Operacionais:
-  - **"Operating System Concepts"** de Silberschatz, Galvin e Gagne.
-  - **"Modern Operating Systems"** de Andrew Tanenbaum.
+- Documentação oficial do Python;
+- Livros e materiais recomendados durante a disciplina;
 - Aulas práticas fornecidas pelo professor da disciplina.
 
 ---
 
-Esse repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina, onde poderei acessar tanto exemplos práticos quanto anotações de teoria para melhor compreender o funcionamento dos sistemas operacionais e suas interações com a programação em Python.
+Este repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina.
