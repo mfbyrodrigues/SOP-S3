@@ -1,4 +1,4 @@
-# Introdução a Sistemas Operacionais - Curso Técnico em Informática
+# Sistemas Operacionais - Curso Técnico em Informática
 
 Este repositório contém os materiais e exercícios da disciplina de **Sistemas Operacionais** do curso técnico integrado em Informática. Aqui, organizo códigos, anotações e práticas para acompanhar o aprendizado dos conceitos de sistemas operacionais, utilizando a linguagem Python.
 
