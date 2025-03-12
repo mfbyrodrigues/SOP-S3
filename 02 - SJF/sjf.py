@@ -1,7 +1,7 @@
 from collections import deque
 
 class SjfScheduler:
-    # Inicializador (Construtor da classe)
+    # Inicializador (Construtor d classe)
     def __init__ (self):
         self.fila_processos = deque()
         
@@ -16,10 +16,11 @@ class SjfScheduler:
             print ("Nenhum processo para remover! :)")
             return
     
-    # Função que simula o comportamento do agendador SJF
+    # Função que simula o comportammento do agendador SJF
     def sjf_scheduling (self):
-        self.fila_processos = deque (sorted(self.fila_processos, key=lambda x: x[1]))
-        
+        fila_processos_prioridade = sorted (self.fila_processos, key=lambda processo: processo[1])
+        self.fila_processos = deque (fila_processos_prioridade)
+
         tempo_atual = 0  
         tempos_espera = {} 
         tempos_retorno = {}  
@@ -37,7 +38,7 @@ class SjfScheduler:
             tempo_atual = tempo_atual + tempo_exec 
         
         print ("\nResumo do escalonamento:\n")
-        
+
         print ("PID | Tempo de espera | Tempo de retorno")
         
         for pid in tempos_espera:
